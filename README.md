@@ -1,7 +1,10 @@
 ## Hi there 👋
 I am Prathyusha.
+
 I design and build anything that comes to my mind.
+
 Probably working on something right now.
+
 Currently working on becoming a Data scientist.
 
 
